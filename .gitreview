@@ -1,0 +1,6 @@
+[gerrit]
+host=gerrit.wikimedia.org
+port=29418
+project=gerrit
+defaultbranch=wmf-debian
+defaultrebase=0
