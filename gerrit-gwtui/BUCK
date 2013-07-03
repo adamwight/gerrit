@@ -27,7 +27,7 @@ gwt_application(
   module_target = MODULE,
   compiler_opts = [
     '-strict',
-    '-style', 'OBF',
+    '-style', 'PRETTY',
     '-optimize', '9',
     '-XdisableClassMetadata',
     '-XdisableCastChecking',
